@@ -1,4 +1,4 @@
-# cypress-command-log-tools-old
+# cypress-command-log-tools
 
 Tools to add to Cypress Test Runner Dashboard
 
@@ -14,17 +14,17 @@ Currently Supported Tools:
 ## Install
 
 ```bash
-npm install cypress-command-log-tools-old
+npm install cypress-command-log-tools
 ```
 
 ```bash
-yarn add cypress-command-log-tools-old
+yarn add cypress-command-log-tools
 ```
 
 ## Usage
 
 ```ts
-import { setupDashboard } from 'cypress-command-log-tools-old';
+import { setupDashboard } from 'cypress-command-log-tools';
 
 setupDashboard({
 	disableHoverOnCommandLogs: true
