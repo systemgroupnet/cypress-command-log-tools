@@ -1,7 +1,7 @@
 {
   "name": "cypress-command-log-tools",
   "version": "0.5.0",
-  "description": "Tools to add to Cypress Test Runner",
+  "description": "Tools to add to Cypress Test Runner Dashboard",
   "main": "./lib/src/index.js",
   "files": [
     "lib/**/*"
